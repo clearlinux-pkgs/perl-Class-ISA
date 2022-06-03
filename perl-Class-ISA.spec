@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-ISA
 Version  : 0.36
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/Class-ISA-0.36.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/Class-ISA-0.36.tar.gz
 Summary  : ~
@@ -86,4 +86,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Class/ISA.pm
+/usr/lib/perl5/*
