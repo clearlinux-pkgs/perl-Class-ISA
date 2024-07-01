@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-ISA
 Version  : 0.36
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/Class-ISA-0.36.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/Class-ISA-0.36.tar.gz
 Summary  : ~
